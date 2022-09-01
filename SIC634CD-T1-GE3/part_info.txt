@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=SIC634CD-T1-GE3
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=37
+Version=1.2
+Released=2022-08-28 12:46:32
+Downloaded=2022-09-01 09:18:10
+3D=Y

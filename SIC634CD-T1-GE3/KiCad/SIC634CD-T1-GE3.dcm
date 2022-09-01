@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SIC634CD-T1-GE3
+D Gate Drivers 50A VRPower MLP55-31L
+K
+F http://www.vishay.com/docs/76784/sic634.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SIC634CDT1GE3"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SIC634CDT1GE3")
+        (spec "default")
+    )
+)

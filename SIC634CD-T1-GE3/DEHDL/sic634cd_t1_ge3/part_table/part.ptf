@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SIC634CD_T1_GE3'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "SIC634CD-T1-GE3" (!) = "", "SIC634CDT1GE3", "Other", "78-SIC634CD-T1-GE3", "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SIC634CD-T1-GE3?qs=5aG0NVq1C4ySzpfRzdPOsQ%3D%3D", "Gate Drivers 50A VRPower MLP55-31L", "http://www.vishay.com/docs/76784/sic634.pdf", "0.8 mm"
+END_PART
+
+END.

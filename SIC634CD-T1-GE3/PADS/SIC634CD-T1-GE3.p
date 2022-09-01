@@ -1,0 +1,54 @@
+*PADS-LIBRARY-PART-TYPES-V9*
+
+SIC634CD-T1-GE3 SIC634CDT1GE3 I ANA 7 1 0 0 0
+TIMESTAMP 2022.09.01.09.18.10
+"Mouser Part Number" 78-SIC634CD-T1-GE3
+"Mouser Price/Stock" https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SIC634CD-T1-GE3?qs=5aG0NVq1C4ySzpfRzdPOsQ%3D%3D
+"Manufacturer_Name" Vishay
+"Manufacturer_Part_Number" SIC634CD-T1-GE3
+"Description" Gate Drivers 50A VRPower MLP55-31L
+"Datasheet Link" http://www.vishay.com/docs/76784/sic634.pdf
+"Geometry.Height" 0.8mm
+GATE 1 37 0
+SIC634CD-T1-GE3
+1 0 U PWM
+2 0 U ZCD_EN#
+3 0 U VCIN
+4 0 U N.C._1
+5 0 U BOOT
+6 0 U N.C._2
+7 0 U PHASE
+8 0 U VIN_1
+9 0 U VIN_2
+10 0 U VIN_3
+11 0 U VIN_4
+12 0 U PGND_1
+13 0 U PGND_2
+14 0 U PGND_3
+15 0 U PGND_4
+16 0 U VSWH_1
+17 0 U VSWH_2
+18 0 U VSWH_3
+19 0 U VSWH_4
+20 0 U VSWH_5
+21 0 U VSWH_6
+22 0 U VSWH_7
+23 0 U VSWH_8
+24 0 U VSWH_9
+25 0 U VSWH_10
+26 0 U VSWH_11
+27 0 U GL
+28 0 U PGND_5
+29 0 U VDRV
+30 0 U N.C._3
+31 0 U N.C._4
+32 0 U CGND
+34 0 U VIN_5
+35 0 U PGND_6
+36 0 U PGND_7
+37 0 U VSWH_12
+38 0 U VSWH_13
+
+*END*
+*REMARK* SamacSys ECAD Model
+1045374/403349/2.49/37/4/Integrated Circuit

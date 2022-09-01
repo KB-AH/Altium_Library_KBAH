@@ -1,0 +1,16 @@
+.SIC634CD-T1-GE3 :1 ;Gate Drivers 50A VRPower MLP55-31L
+SIC634CDT1GE3
+*STM IC
+*NGS
+*PLB 1="PWM" 2="ZCD_EN#" 3="VCIN" 4="N.C._1" 5="BOOT" 6="N.C._2" 7="PHASE" 8="VIN_1" 9="VIN_2" 10="VIN_3" 11="VIN_4" 12="PGND_1" 13="PGND_2" 14="PGND_3" 15="PGND_4" 16="VSWH_1" 17="VSWH_2" 18="VSWH_3" 19="VSWH_4" 20="VSWH_5" 21="VSWH_6" 22="VSWH_7" 23="VSWH_8" 24="VSWH_9" 25="VSWH_10" 26="VSWH_11" 27="GL" 28="PGND_5" 29="VDRV" 30="N.C._3" 31="N.C._4" 32="CGND" 34="VIN_5" 35="PGND_6" 36="PGND_7" 37="VSWH_12" 38="VSWH_13"
+*MXP 37
+*DFN SIC634CD-T1-GE3
+~!Mouser Part Number (78-SIC634CD-T1-GE3)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SIC634CD-T1-GE3?qs=5aG0NVq1C4ySzpfRzdPOsQ%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (SIC634CD-T1-GE3)
+~!Link Datasheet (http://www.vishay.com/docs/76784/sic634.pdf)
+~!Height (0.8mm)
+~!3D_Model (SIC634CD-T1-GE3)
+SIC634CD-T1-GE3
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 25.1!U 26.1!U 27.1!U 28.1!U 29.1!U 30.1!U 31.1!U 32.1!U 34.1!U 35.1!U 36.1!U 37.1!U 38.1!U 
