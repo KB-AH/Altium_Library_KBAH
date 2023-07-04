@@ -122,6 +122,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZWGBYRUS
 
+[Document6]
+DocumentPath=FP-RAD-TH-D_18_0_5-L_40_2-MFG_H.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WNFARNRV
+
+[Document7]
+DocumentPath=Components - 30.06.23 - 15.16.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LJAIORRU
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
